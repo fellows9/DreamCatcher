@@ -15,6 +15,7 @@
 		A9FFB6741C41B567007DCBC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9FFB6721C41B567007DCBC2 /* LaunchScreen.storyboard */; };
 		A9FFB67F1C41B567007DCBC2 /* DreamCatcherTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A9FFB67E1C41B567007DCBC2 /* DreamCatcherTests.m */; };
 		A9FFB68A1C41B567007DCBC2 /* DreamCatcherUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A9FFB6891C41B567007DCBC2 /* DreamCatcherUITests.m */; };
+		A9FFB6991C41D15E007DCBC2 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A9FFB6981C41D15E007DCBC2 /* DetailViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		A9FFB6851C41B567007DCBC2 /* DreamCatcherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DreamCatcherUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9FFB6891C41B567007DCBC2 /* DreamCatcherUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DreamCatcherUITests.m; sourceTree = "<group>"; };
 		A9FFB68B1C41B567007DCBC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A9FFB6971C41D15E007DCBC2 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		A9FFB6981C41D15E007DCBC2 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +109,8 @@
 				A9FFB66A1C41B567007DCBC2 /* ViewController.h */,
 				A9FFB66B1C41B567007DCBC2 /* ViewController.m */,
 				A9FFB66D1C41B567007DCBC2 /* Main.storyboard */,
+				A9FFB6971C41D15E007DCBC2 /* DetailViewController.h */,
+				A9FFB6981C41D15E007DCBC2 /* DetailViewController.m */,
 				A9FFB6701C41B567007DCBC2 /* Assets.xcassets */,
 				A9FFB6721C41B567007DCBC2 /* LaunchScreen.storyboard */,
 				A9FFB6751C41B567007DCBC2 /* Info.plist */,
@@ -273,6 +278,7 @@
 				A9FFB66C1C41B567007DCBC2 /* ViewController.m in Sources */,
 				A9FFB6691C41B567007DCBC2 /* AppDelegate.m in Sources */,
 				A9FFB6661C41B567007DCBC2 /* main.m in Sources */,
+				A9FFB6991C41D15E007DCBC2 /* DetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
